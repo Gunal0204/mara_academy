@@ -21,14 +21,14 @@
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a slight shadow */
     }
 
-    /* Body padding to prevent content from hiding behind the navbar */
+    /* Body padding to prevent content from Hiding behind the navbar */
     body {
       padding-top: 80px; /* Adjust for navbar height */
     }
 
     /* Center the cards in the row */
 .card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;  /* Smooth transition for hover effects */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;  /* smooth transition for hover effects */
 }
 
 /* Hover Effect on the Card */

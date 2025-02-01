@@ -30,7 +30,7 @@
 </head>
 
 <body>
-
+<p>sample</p>
    <!-- Floating Navbar -->
    <nav class="navbar navbar-expand-sm navbar-light rounded">
     <div class="container-fluid">
